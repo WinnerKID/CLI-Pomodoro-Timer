@@ -3,7 +3,6 @@
 
 <p>This is a simple script that allows users to enter 3 inputs, first timer, second timer, and number of repeats. Everytime the timer finishes, it'll play a ring sound. This program works for linux systems only.</p>
 <b></b>
-<p>Link to alternative timer for other OS https://github.com/WinnerKID/Pomotimer </p>
 
 ---
 
@@ -17,3 +16,10 @@
    ```
    python timer.py
    ```
+
+---
+
+
+### Alternative Timer (GUI, All OS)
+<p>https://github.com/WinnerKID/Pomotimer </p>
+
