@@ -1,1 +1,1 @@
-# cli-pomodoro_timer
+# CLI Pomodoro Timer
