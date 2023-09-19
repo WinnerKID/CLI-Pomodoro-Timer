@@ -8,8 +8,7 @@
 
 ### Pomodoro Learning Technique
 <p>The pomodoro learning technique is a useful studying method for learners who have problems with focusing or procastinating. It consist a timer that is usually around 20min+ of studying and after a 5min+ break and this repeats itself.</p>
-<p>To learn more about the Pomodoro technique, read this <a href="https://todoist.com/productivity-methods/pomodoro-technique" target="_blank">article!</a>
-</p>
+<p>To learn more about the Pomodoro technique, read this <a href="https://todoist.com/productivity-methods/pomodoro-technique" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">article!</a></p>
 
 ---
 
